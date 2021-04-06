@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormPersona</string>
+    <string-array name="options_array">
+        <item>Ver empleado mas joven</item>
+        <item>Ver empleado mas viejo</item>
+        <item>Ver emplado con salario mas alto</item>
+        <item>Ver emplado con salario mas bajo</item>
+        <item>Ver el promedio de los salarios</item>
+        <item>Ver el número de personas por cargo y promedio de salario por cargo</item>
+    </string-array>
+</resources>
